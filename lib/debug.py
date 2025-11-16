@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import ipdb
+# lib/debug.py
+import ipdb # type: ignore
 
 from classes.many_to_many import Customer
 from classes.many_to_many import Order

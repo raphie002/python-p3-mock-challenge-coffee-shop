@@ -1,4 +1,5 @@
-import pytest
+# lib/testing/customer_test.py
+import pytest # type: ignore
 
 from classes.many_to_many import Coffee
 from classes.many_to_many import Customer
